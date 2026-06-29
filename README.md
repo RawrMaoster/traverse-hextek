@@ -1,4 +1,10 @@
+<div align="center">
+<img width="740" height="440" alt="Traverse HexTek" src="https://github.com/user-attachments/assets/b1da00ec-cbe4-4b09-bae2-604475fe57c6" />
+</div>
+
+
 # Traverse: HexTek
+
 ### A magic and tech exploration modpack for NeoForge 1.21.1 | Alpha Development Build
 
 ## Download
