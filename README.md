@@ -31,21 +31,14 @@ The Builder — 25 building mods including the full Macaw's suite, Chipped, Domu
 The Hybrid — The pack is designed for this. Magic and tech are bridged at the system level. Ars bridges to Create, AE2, and Mekanism. Soulshards feeds into AE2. Mystical Agriculture integrates with automation. Playing one system in isolation is a choice, not a requirement.
 
 ## Installation
-Traverse: HexTek is currently in alpha development and is available through any public launcher. Playtesters wanted.
 
-Download the latest release from the Releases page — look for Traverse-HexTek-v0.1.0-Alpha
+Traverse: HexTek is currently in alpha development and is only available through the Technic Launcher. Playtesters wanted.
 
-Install NeoForge 21.1.216 for Minecraft 1.21.1
+1. Download the [Technic Launcher](https://www.technicpack.net/)
+2. Search for "Traverse: HexTek" (or use the [direct modpack link](https://www.technicpack.net/modpack/traverse-official.2016393))
+3. Install and play
 
-Drop the mods folder into your NeoForge instance
-
-Allocate a minimum of 8GB RAM — 12GB recommended
-
-Run Chunky to pre-generate your world before inviting other players to the server
-
-Do not redistribute this build. It is an active development snapshot and is not representative of a final release.
-
-Or simply look up the modpack in the technic launcher.
+**Note:** This is an active development snapshot and is not representative of a final release. Do not redistribute outside of the Technic listing.
 
 ## Part of AperturePlex
 Traverse: HexTek is developed under the AperturePlex network — a collection of Minecraft servers and modpack projects built and maintained by the same team. AperturePlex projects share infrastructure, playtesting pipelines, and a development philosophy: build things worth playing, not things worth shipping fast.
